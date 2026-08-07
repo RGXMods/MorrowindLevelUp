@@ -3,6 +3,8 @@
 ## Title:  |cff7e8265Morrowind|r Level Up|cff7e8265!|r
 ## IconTexture: Interface\AddOns\MorrowindLevelUp\media\icon
 ## Author: DonnieDice
+## Category: RGX
+## Group: RGX
 ## SavedVariables: MRLUSettings
 ## RequiredDeps: RGX-Framework
 ## Notes:  Play a Morrowind-inspired level-up sound!  |n|r  |cff7e8265/morlu -|r Open help  |n|r   |cff7e8265By DonnieDice|r
