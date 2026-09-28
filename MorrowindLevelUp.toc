@@ -13,6 +13,7 @@
 ## X-Website: https://github.com/RGXMods/MorrowindLevelUp
 ## X-Curse-Project-ID: 594121
 ## X-Wago-ID: VBNBbxNx
+## X-Localizations: enUS, deDE, esES, esMX, frFR, itIT, koKR, ptBR, ptPT, ruRU, zhCN, zhTW
 
 data\locales.lua
 data\core.lua
