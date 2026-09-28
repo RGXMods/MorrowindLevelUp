@@ -9,7 +9,7 @@ local RGX = assert(_G.RGXFramework, "MRLU: RGX-Framework not loaded")
 
 MRLU = MRLU or {}
 
-local ADDON_VERSION = "2.0.2"
+local ADDON_VERSION = "2.0.4"
 local ADDON_NAME = "MorrowindLevelUp"
 local PREFIX = "|Tinterface/addons/MorrowindLevelUp/media/icon:16:16|t - |cffffffff[|r|cff231f20MRLU|r|cffffffff]|r "
 local TITLE = "|Tinterface/addons/MorrowindLevelUp/media/icon:18:18|t [|cff231f20M|r|cfffffffforrowind|r |cff231f20L|r|cffffffffevel|r |cff231f20U|r|cff231f20p|r|cff231f20!|r]"
