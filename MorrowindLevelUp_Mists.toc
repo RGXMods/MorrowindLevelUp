@@ -1,4 +1,4 @@
-﻿## Interface: 20506
+﻿## Interface: 50504
 ## Version: 2.0.4
 ## Title:  |cff7e8265Morrowind|r Level Up|cff7e8265!|r
 ## IconTexture: Interface\AddOns\MorrowindLevelUp\media\icon.tga
