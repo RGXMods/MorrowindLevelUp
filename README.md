@@ -81,6 +81,8 @@ MRLU works automatically once enabled. It has no graphical configuration panel; 
 
 The initial defaults are enabled, medium quality, Master-channel playback, default-sound muting, and the welcome message. Settings persist between sessions in `MRLUSettings`.
 
+All chat output, help text, and the login welcome message are localized. The addon ships translations for every supported WoW client language: **enUS** (base), **deDE**, **esES**, **esMX**, **frFR**, **itIT**, **koKR**, **ptBR**, **ptPT**, **ruRU**, **zhCN**, and **zhTW**. Any client language without a dedicated translation falls back to the enUS strings. Slash-command names (`/mrlu`, `/mrlu help`, `/mrlu test`, and the `high`/`med`/`low` variant arguments) and sound-channel names (`Master`, `SFX`, `Music`, `Ambience`) remain in English on every client, matching the game's own command and channel behavior.
+
 ***
 
 ## <span style="color: #231f20;">🧩 Files and Runtime</span>
